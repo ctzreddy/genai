@@ -1,0 +1,7 @@
+langchain
+python-dotenv
+langchain_community
+langchain-text-splitters
+langchain-openai
+langchain-chatgroq
+langchain-groq
