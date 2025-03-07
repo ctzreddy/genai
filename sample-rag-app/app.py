@@ -33,7 +33,7 @@ rag_chain = (
     | StrOutputParser()
 )
 
-question = "What is the temperature range for E1743 switch?"
+question = "What is Love Is Like an Itching in My Heart?"
 print(f"Question: {question}")
 print("Answer without RAG:")
 print(llm.invoke([question]).content)
